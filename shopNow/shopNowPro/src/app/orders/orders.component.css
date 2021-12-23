@@ -1,0 +1,97 @@
+.card {
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+    background-color: #b56bef;
+   
+    
+  }
+  
+
+img {
+    vertical-align: middle;
+    height: 200px;
+    width: 200px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+img.card-img-top {
+    height: 230px;
+    width: 200px;
+}
+.cart-value{
+    position: absolute;
+    top:0;
+    right: 0;
+    background: white;
+    border-radius: 50%;
+    padding:4px 10px;
+  }
+.col-4 {
+    display: flex;
+    /* top: 50px;
+    left: 500px; */
+    justify-content:flex-start;
+    align-items: center;
+    color: white;
+    padding: 10px;
+   
+    
+}
+/* button {
+    background: blue;
+    border: #0a53f5;
+    width: 102px;
+    height: 35px;
+    text-decoration: blink;
+    margin: 5px;
+    padding: 2px;
+} */
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin: 5px;
+} 
+
+.rounded-corners {
+    border-radius: 5px;
+  }
+  .card.rounded-corners {
+    border-radius: 5px;
+  }
+  .container{
+      display: inline;
+      flex-direction: row;
+  }
+  /* glow words */
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: "century gothic";
+    color: #a1f309f3;
+    text-shadow: 0 0 5px rgb(223, 27, 13), 0 0 10px #fff,
+      0 0 20px rgb(128, 83, 0), 0 0 30px rgb(11, 255, 23),
+      0 0 40px rgb(24, 243, 16), 0 0 55px rgb(62, 226, 12),
+      0 0 70px rgb(20, 228, 82);
+  }
+  
+  
+  /* footer */
+  footer.page-footer.font-small.mdb-color.pt-4 {
+    background-color: #bcc0bf;
+  }
+  
+  .row.roundimg {
+      justify-content: space-between;
+      display: flex;
+  }
+  .row.roundimg h5{
+      justify-content: center;
+      display: flex;
+      align-items: center;
+  }
+  

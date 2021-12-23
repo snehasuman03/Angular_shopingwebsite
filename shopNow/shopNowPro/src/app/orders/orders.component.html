@@ -1,0 +1,43 @@
+<div class="container">
+  <h1 class="glow">
+    Orders details <span> <i class="fab fa-gratipay"></i></span>
+  </h1>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-4">
+      <div class="card" *ngFor="let pro of listofOrders">
+        <img src="{{ pro.product.image }}" />
+
+        <div class="card-body">
+          <h5 class="card-title">
+            {{ pro.product.brand }} {{ pro.product.price }}
+          </h5>
+          <p class="card-text">{{ pro.product.description }}</p>
+
+          <div class="btns__">
+            <button class="btn btn-primary" id=1 value={{pro._id}} (click)="status($event)">
+                On the way
+            </button>
+            <button class="btn btn-primary" id=2 value={{pro._id}} (click)="status($event)">
+                Delivered
+            </button>
+        </div>
+
+
+          <!-- <button
+            class="btn btn-primary"
+            id=1 value={{pro._id}} (click)="status($event)"
+          >
+            On the Way
+          </button>
+          <button
+            class="btn btn-primary" id=2 value={{pro._id}} (click)="status($event)"
+          >
+            Delivered
+          </button> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

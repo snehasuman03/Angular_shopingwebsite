@@ -1,0 +1,252 @@
+{
+  "productsDetails": [
+    {
+      "image": "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGRyZXNzfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "brand":"zara",
+    "price":"1500 rs",
+    "description":"  3999rs 60% off",
+    "status":"ordered"
+  },
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/9878/221/500/2/w/452/9878221500_1_1_1.jpg?ts=1632234813302",
+    "brand":"vero moda",
+    "price":"3500 rs",
+    "description":"3999rs 20% off",
+    "status":"ordered"
+  },
+  {
+      "image": "https://i.pinimg.com/originals/ef/3b/71/ef3b717864c2ea60d84d994b5ddcddc0.jpg",
+      "brand":"United color of benten",
+    "price":"3600 rs",
+    "description":"  3999rs 10% off"
+  },
+  {
+      "image": "https://static.zara.net/photos///2021/I/0/1/p/8738/541/050/2/w/335/8738541050_1_1_1.jpg?ts=1629904045004",
+      "brand":"vero moda",
+    "price":"3500 rs",
+    "description":"  3999rs 20% off"
+  },
+  
+  {
+    "image": "https://i.pinimg.com/originals/67/d6/50/67d65059584c85807c75a7fb973c75e0.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://media3.newlookassets.com/i/newlook/698709299M1/womens/clothing/dresses/ax-paris-white-brushstroke-wrap-midi-dress.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://i.pinimg.com/564x/98/c4/94/98c49448c7703a882e9a03888c60a989.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://i.pinimg.com/originals/ba/57/e5/ba57e59a9ab72bbbee8e5cb12c2c4a8b.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2thpp2OemwcLFVJ3CsefQHmaPNJWTdV-FfZQ6DxM-XH_t5GLrVjIYIDmpMAhDAGBV-x8&usqp=CAU",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/7385/306/643/2/w/452/7385306643_1_1_1.jpg?ts=1624433352130",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/8063/513/050/2/w/1920/8063513050_1_1_1.jpg?ts=1625214528547",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/3067/307/630/2/w/1920/3067307630_1_1_1.jpg?ts=1624433308662",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/8226/569/172/2/w/560/8226569172_1_1_1.jpg?ts=1624434309659",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/2183/244/407/2/w/335/2183244407_1_1_1.jpg?ts=1623665015034",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://i.pinimg.com/originals/71/d3/90/71d39046e80c0dc28c71c577e3e24e34.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/9119/212/031/2/w/452/9119212031_1_1_1.jpg?ts=1632736453838",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/2599/153/330/2/w/452/2599153330_1_1_1.jpg?ts=1631718464106",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/8197/285/401/17/w/335/8197285401_2_1_1.jpg?ts=1629187696635",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+
+,
+  {
+    "image": "https://images.asos-media.com/products/missguided-belted-denim-dress-with-cut-out-in-blue/13114939-4?$n_640w$&wid=513&fit=constrain",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2022/V/0/1/p/9878/230/330/2/w/452/9878230330_2_1_1.jpg?ts=1636713293085",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/9335/562/330/2/w/452/9335562330_2_1_1.jpg?ts=1634714510759",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/7969/029/800/2/w/452/7969029800_2_1_1.jpg?ts=1637684217842",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://media1.popsugar-assets.com/files/thumbor/xJumcZT_bWegGj4pNNw1cyKT6Ik/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/01/14/887/n/1922564/7e9eedf75e661da3_netimgcrtqDx/i/Free-People-Rosabel-Maxi-Dress.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/7385/308/251/17/w/1920/7385308251_1_1_1.jpg?ts=1626686570736",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://i.pinimg.com/originals/06/c8/aa/06c8aa1d4976be4022a354d4e2fbe64d.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://www.thesun.co.uk/wp-content/uploads/2017/08/nintchdbpict000346265479.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+
+,
+  {
+    "image": "https://images.asos-media.com/products/other-stories-belted-linen-blend-midi-dress-in-natural-beige/12112879-1-beigenaturallinen?$n_640w$&wid=513&fit=constrain",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://static.zara.net/photos///2021/I/0/1/p/5644/369/615/2/w/1920/5644369615_1_1_1.jpg?ts=1623845956510",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://cdn.cliqueinc.com/posts/283951/zara-dress-and-boots-283951-1574328877918-image.700x0c.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://media1.popsugar-assets.com/files/thumbor/qc3N8zxhGc7aiXlFTfKbIDVc_5U/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/02/04/678/n/1922564/78df00515989f5bb_netimgUP3VcL/i/Zara-Animal-Print-Heeled-Leather-Boots.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZHJlc3N8ZW58MHx8MHx8&w=1000&q=80",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+
+,
+  {
+    "image": "https://5.imimg.com/data5/EA/SU/MY-7155445/denim-midi-one-piece-dresses-500x500.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+}
+,
+  {
+    "image": "https://img.promgirl.com/_img/PGPRODUCTS/1746048/500/navy-dress-MT-8028-1-a.jpg",
+    "brand":"vero moda",
+  "price":"3500 rs",
+  "description":"  3999rs 20% off"
+},
+{
+  "image": "https://i.pinimg.com/originals/07/56/8a/07568aeb0baa6f16a3a99ef42abb8237.png",
+  "brand":"vero moda",
+"price":"3500 rs",
+"description":"  3999rs 20% off"
+},
+{
+  "image": "https://img.simplydresses.com/_img/SDPRODUCTS/1748978/500/burgundy-dress-FLA-74097-a.jpg",
+  "brand":"vero moda",
+"price":"3500 rs",
+"description":"  3999rs 20% off"
+}
+    
+  ]
+}

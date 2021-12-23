@@ -1,0 +1,35 @@
+{
+    "productsDetails": [
+      {
+        "image": "Which of the following does TypeScript use to specify types?",
+        "brand":"zara",
+      "price":"1500 rs",
+      "description":"  3999rs 60% off"
+    },
+    {
+        "image": "Which of the following does TypeScript use to specify types?",
+        "brand":"vero moda",
+      "price":"3500 rs",
+      "description":"  3999rs 20% off"
+    },
+    {
+        "image": "Which of the following does TypeScript use to specify types?",
+        "brand":"United color of benten",
+      "price":"3600 rs",
+      "description":"  3999rs 10% off"
+    },
+    {
+        "image": "Which of the following does TypeScript use to specify types?",
+        "brand":"vero moda",
+      "price":"3500 rs",
+      "description":"  3999rs 20% off"
+    },
+    {
+        "image": "Which of the following does TypeScript use to specify types?",
+        "brand":"vero moda",
+      "price":"3500 rs",
+      "description":"  3999rs 20% off"
+    }
+      
+    ]
+  }

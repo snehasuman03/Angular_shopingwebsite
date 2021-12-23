@@ -1,0 +1,40 @@
+.card {
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+    background-color: #b56bef;
+   
+    
+  }
+  
+
+img.card-img-top {
+    height: 230px;
+    width: 200px;
+}
+.col-4 {
+    display: flex;
+    top: 50px;
+    left: 500px;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    
+}
+button {
+    background: blue;
+    border: #0a53f5;
+    width: 102px;
+    height: 35px;
+    text-decoration: blink;
+}
+.rounded-corners {
+    border-radius: 5px;
+  }
+  .card.rounded-corners {
+    border-radius: 5px;
+  }
+  .container{
+      display: inline;
+      flex-direction: row;
+  }
